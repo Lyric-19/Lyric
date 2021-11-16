@@ -21,5 +21,6 @@ MarTech技术已经被广泛应用于商业广告分析与挖掘中，在搜索�
 ## 使用方式 
 
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)  
-B：colab \n
+B：colab 
+
 C：jupyter 
